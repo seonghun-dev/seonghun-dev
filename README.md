@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm KONKUK University Student 
+I'm KONKUK University Student
+
 My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 
 
