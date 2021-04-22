@@ -21,6 +21,10 @@ C | C++
 - Drug-alert IOT product
 - Distributed System Team Project
 
+## Project
+If you want to contact me
+
+
 <!--
 **seonghun912/seonghun912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
