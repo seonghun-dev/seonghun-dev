@@ -13,7 +13,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 
 ## 👨‍💻 Language
 C | C++
-
+🌱 I’m currently learning JAVA
 
 
 ## 😀 Project
