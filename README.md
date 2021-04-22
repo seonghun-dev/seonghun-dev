@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)
 
 ### Hi there 👋
 I'm KONKUK University Student
@@ -21,9 +20,6 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 - Non-Vision TinyML
 - Drug-alert IOT product
 - Distributed System Team Project
-
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23900020&title_bg=%23000000&icon=pinboard.svg&icon_color=%23FFFFFF&title=Today&edge_flat=true"/></a>
 
 <!--
 **seonghun912/seonghun912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
