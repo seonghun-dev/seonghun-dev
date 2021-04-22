@@ -20,7 +20,7 @@ C | C++
 - Non-Vision TinyML
 - Drug-alert IOT product
 - Distributed System Team Project
-- 
+
 
 ## 📫 Contact
 If you want to contact me
