@@ -3,7 +3,7 @@
 I'm KONKUK University Student
 My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 
-## Career
+## 💼Career
 | Career 	| Date 	| Contents 	|
 |:-:	|:-:	|-	|
 | 🎓korea Polytech University 	| 2017.03~2019.02 	| Major:Mechanical Engineering 	|
@@ -11,17 +11,18 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 
 
 
-## Language
+## 👨‍💻Language
 C | C++
 
 
 
-## Project
+## 😀Project
 - Non-Vision TinyML
 - Drug-alert IOT product
 - Distributed System Team Project
+- 
 
-## Project
+## 📫Contact
 If you want to contact me
 
 
