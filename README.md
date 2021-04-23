@@ -3,9 +3,6 @@
 I'm KONKUK University Student
 My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 
-https://seonghun912.github.io/
-
-
 ## 💼 Career
 | Career 	| Date 	| Contents 	|
 |:-:	|:-:	|-	|
