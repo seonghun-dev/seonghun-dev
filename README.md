@@ -18,7 +18,7 @@ C | C++ | Python | JAVA
 ## 😀 Project
 - Non-Vision TinyML
 - Drug-alert IOT product
-- Distributed System Team Project
+- Distributed System Team Project-FlipCard
 
 
 ## 📫 Contact
