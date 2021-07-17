@@ -8,6 +8,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 |:-:	|:-:	|-	|
 | 🎓korea Polytech University 	| 2017.03~2019.02 	| Major:Mechanical Engineering 	|
 | 💻Konkuk University 	| 2019.03~ 	| Major:Smart ICT CONVERGENCE 	|
+| 4S Mapper | 2021.07.01~ |
 
 
 
