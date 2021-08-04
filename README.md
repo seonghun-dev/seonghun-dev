@@ -34,11 +34,4 @@ If you want to contact me
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" /></div>
 
 ## 😄 Blog
-<table border=0  cellpadding=0 cellspacing=0 style="width: 100%;">
-<tbody>
-<tr style="width: 100%;">
-<td style="width: 50%;"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></td>
-<td style="width: 50%;"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></td>
-</tr>
-</tbody>
-</table>
+<a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a>
