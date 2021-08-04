@@ -33,5 +33,5 @@ I’m currently working on 4S Mapper
 ## :vhs: Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" /></div>
 
-## 😄 Blog
-<a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a>
+## 😄 Blog[See My New Post]
+<div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
