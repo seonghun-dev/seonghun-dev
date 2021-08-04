@@ -10,11 +10,11 @@ I’m currently working on 4S Mapper
 | Career 	| Date 	| Contents 	|
 |:-:	|:-:	|-	|
 | 🎓korea Polytech University 	| 2017.03~2019.02 	| Major:Mechanical Engineering 	|
-| 💻Konkuk University 	| 2021.03~ 	| Major:Smart ICT CONVERGENCE 	|
+| 🎓Konkuk University 	| 2021.03~ 	| Major:Smart ICT CONVERGENCE	|
 | 4S Mapper | 2021.07.01~ | Software Developer |
   
+  
 </div>
-
 
 ## 👨‍💻 Tech
 
