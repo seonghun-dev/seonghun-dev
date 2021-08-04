@@ -34,26 +34,12 @@ If you want to contact me
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" /></div>
 
 ## 😄 Blog
-<div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
-
-
-<div style="border: 1px solid gold; float: left; width: 50%;">
-<div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
-</div>
-<div style="border: 1px solid red; float: left; width: 50%;">
-<div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
-</div>
-<!--
-**seonghun912/seonghun912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="" style="width: 100% border-top: none border-left: none;">
+<tbody>
+<tr style="width: 100%;">
+<td style="width: 33%;"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></td>
+<td style="width: 33%;"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></td>
+<td style="width: 33%;"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></td>
+</tr>
+</tbody>
+</table>
