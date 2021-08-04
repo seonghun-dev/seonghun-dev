@@ -17,8 +17,6 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 
 
 ## 👨‍💻 Tech
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghun-dev&layout=compact"/></div>  
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white
 
 ## 😀 Project
 - Non-Vision TinyML
