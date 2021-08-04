@@ -34,8 +34,7 @@ If you want to contact me
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" /></div>
 
 ## 😄 Blog
-<div align="center"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></div>
-
+<div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
 
 <!--
 **seonghun912/seonghun912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
