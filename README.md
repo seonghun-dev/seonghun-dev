@@ -13,31 +13,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 
 
 ## 👨‍💻 Tech
-<table><tr><td valign="top" width="33%">
-  
-### Language  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-  
-</td><td valign="top" width="33%">
-  
-### Web  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
-</td><td valign="top" width="33%">
-
-### Others  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-</div>
-
-</td></tr></table>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghun-dev&layout=compact"/></div>  
 
 
 
@@ -51,7 +27,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 If you want to contact me
 
 ## :vhs: Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" /></div>
 
 
 <!--
