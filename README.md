@@ -20,7 +20,6 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghun-dev&layout=compact"/></div>  
 
 
-
 ## 😀 Project
 - Non-Vision TinyML
 - Drug-alert IOT product
@@ -34,4 +33,5 @@ If you want to contact me
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" /></div>
 
 ## 😄 Blog
+border-collapse: collapse;
 <a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a>
