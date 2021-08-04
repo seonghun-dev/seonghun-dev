@@ -23,12 +23,12 @@ I’m currently working on 4S Mapper
 <div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
 
 ### 📫 More
-<div align="center">
+
 <a href="https://velog.io/@seonghun-dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/seonghun/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:seonghun912@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://open.kakao.com/o/sGKkKaZc" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
-</div>
+
 
 
 
