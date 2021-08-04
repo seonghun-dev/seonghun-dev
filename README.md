@@ -1,8 +1,8 @@
 
 ### Hi there 👋
-I'm KONKUK University Student
-My major is DEPARTMENT OF SMART ICT CONVERGENCE.
-🔭 I’m currently working on 4S Mapper
+I'm KONKUK University Student</br>
+My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
+I’m currently working on 4S Mapper
 
 ## 💼 Career
 <div align="center">
