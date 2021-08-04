@@ -22,6 +22,8 @@ I’m currently working on 4S Mapper
 - Drug-alert IOT product
 - Distributed System Team Project-FlipCard
 
+## 😄 Blog[See My New Post]
+<div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
 
 ## 📫 Contact and More
 <div align="center">
@@ -31,6 +33,5 @@ I’m currently working on 4S Mapper
 <a href="https://open.kakao.com/o/sGKkKaZc" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 </div>
 
-## 😄 Blog[See My New Post]
-<div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
+
 
