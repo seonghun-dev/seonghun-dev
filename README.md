@@ -30,23 +30,6 @@ I’m currently working on 4S Mapper
 <a href="mailto:seonghun912@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 
-## :vhs: Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" max-width: 50% height: auto></div>
-
 ## 😄 Blog[See My New Post]
 <div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
 
-
-
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-<div class="card">
-  <div class="card-header">
-    My Card
-  </div>
-  <img src="images/card-image.png" alt="" />
-  <div class="card-body">
-    <h5 class="card-title">Lorem</h5>
-    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam egestas sed sem ut malesuada.</p>
-    <a href="#" class="btn btn-primary">More</a>
-  </div>
-</div>
