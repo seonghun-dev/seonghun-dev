@@ -25,7 +25,7 @@ I’m currently working on 4S Mapper
 ## 😄 Blog[See My New Post]
 <div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
 
-## 📫 Contact and More
+## 📫 More
 <div align="center">
 <a href="https://velog.io/@seonghun-dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/seonghun/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=linkedin&logoColor=white"/></a>
