@@ -26,8 +26,8 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.
 - Distributed System Team Project-FlipCard
 
 
-## 📫 Contact
-If you want to contact me
+## 📫 About Me
+<a href="https://velog.io/@seonghun-dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ## :vhs: Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=seonghun-dev&show_icons=true&locale=en" alt="seonghun-dev" align="center" /></div>
