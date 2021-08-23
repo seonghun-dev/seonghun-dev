@@ -1,7 +1,6 @@
 ## JUNG SEONGHUN | 정성훈
 I'm KONKUK University Student</br>
 My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
-I’m currently working on 4S Mapper
 
 
 ### 💼 Career
@@ -10,7 +9,7 @@ I’m currently working on 4S Mapper
 |:-:	|:-:	|-	|
 | 🎓korea Polytech University 	| 2017.03~2019.02 	| Major:Mechanical Engineering 	|
 | 🎓Konkuk University 	| 2021.03~ 	| Major:Smart ICT CONVERGENCE	|
-| 💼4S Mapper | 2021.07.01~ | Software Developer |
+| 💼4S Mapper | 2021.07.01~2021.08.27 | Software Developer |
   
 
 ### 👨‍💻 Tech
