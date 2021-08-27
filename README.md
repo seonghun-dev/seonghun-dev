@@ -13,6 +13,15 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
   
 
 ### 👨‍💻 Tech
+<img src="https://codetrace.com/static/images/languages/java.svg"/><img src="https://codetrace.com/static/images/languages/python.svg"/>
+<img src="https://codetrace.com/static/images/languages/javascript.svg"/>
+<img src="https://codetrace.com/static/images/languages/html.svg"/>
+<img src="https://codetrace.com/static/images/languages/css.svg"/>
+<img src="https://codetrace.com/static/images/languages/powershell.svg"/>
+<img src="https://res.cloudinary.com/codetrace/raw/upload/v1517689260/js:fs.png"/>
+<img src="https://res.cloudinary.com/codetrace/raw/upload/v1517521057/js:express.png"/>
+
+
 
 ### 😀 Project
 - Non-Vision TinyML
