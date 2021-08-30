@@ -12,6 +12,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 | 💼HyperHire | 2021.08.30~ | Software Developer | 	|
   
 
+
 ### 👨‍💻 Tech
 <img src="https://codetrace.com/static/images/languages/java.svg"/><img src="https://codetrace.com/static/images/languages/python.svg"/><img src="https://codetrace.com/static/images/languages/c.svg"/>
 <img src="https://codetrace.com/static/images/languages/javascript.svg"/>
