@@ -13,7 +13,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
   
 
 
-### 👨‍💻 Tech
+### 👨‍💻 Tech 
 <img src="https://codetrace.com/static/images/languages/java.svg"/><img src="https://codetrace.com/static/images/languages/python.svg"/><img src="https://codetrace.com/static/images/languages/c.svg"/>
 <img src="https://codetrace.com/static/images/languages/javascript.svg"/>
 <img src="https://codetrace.com/static/images/languages/html.svg"/>
