@@ -34,6 +34,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 
 <div align="center"><a href="https://velog.io/@seonghun-dev"><img src="https://velog-readme-stats.vercel.app/api?name=seonghun-dev" herf="https://velog.io/@seonghun-dev"/></a></div>
 
+
 ### 📫 More
 
 
