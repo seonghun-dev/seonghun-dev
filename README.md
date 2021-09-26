@@ -11,6 +11,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 | 🎓Konkuk University 	| 2021.03~ 	| Major:Smart ICT CONVERGENCE	| Minor : Industrial engineering	|
 | 💼4S Mapper | 2021.07.01~2021.08.27 | Software Developer | http://yeongwol.dromii.com	|
 | 💼HyperHire | 2021.08.30~ | Software Developer | Web crawling, DB	|
+
   
 
 
