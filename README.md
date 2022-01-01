@@ -15,7 +15,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
   
 
 
-### 👨‍💻 Tech 
+### 👨‍💻 Tech Stack
 <img src="https://github.com/seonghun-dev/seonghun-dev.github.io/blob/main/images/tech_stack.png?raw=true"/>
 
 
