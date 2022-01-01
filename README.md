@@ -33,7 +33,6 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 <a href="https://stackoverflow.com/users/16596710/seonghun" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-EF8236?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
 <a href="https://www.pinterest.co.kr/seonghundev" target="_blank"><img src="https://img.shields.io/badge/pinterest-d14836?style=flat-square&logo=pinterest&logoColor=white"/></a>
 <a href="mailto:dev.seonghun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://open.kakao.com/o/sGKkKaZc" target="_blank"><img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>
 
 
 
