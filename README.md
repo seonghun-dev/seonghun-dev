@@ -23,7 +23,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 - Non-Vision TinyML
 - Drug-alert IOT product
 - Distributed System Team Project-FlipCard
-
+- Tech B
 
 ### 📫 More
 <a href="https://www.linkedin.com/in/seonghun/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=linkedin&logoColor=white"/></a>
