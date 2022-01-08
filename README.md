@@ -3,7 +3,6 @@ I'm KONKUK University Student</br>
 My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 
 
-
 ### 💼 Career
 
 | Career 	| Date 	| department | Contents |
