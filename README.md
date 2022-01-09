@@ -24,6 +24,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 - Drug-alert IOT product
 - Distributed System Team Project-FlipCard
 - Tech B
+- Document Tagging
 
 ### 📫 More
 <a href="https://www.linkedin.com/in/seonghun/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=linkedin&logoColor=white"/></a>
