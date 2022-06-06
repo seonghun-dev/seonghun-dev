@@ -25,7 +25,7 @@ My major is DEPARTMENT OF SMART ICT CONVERGENCE.</br>
 - <a href="https://github.com/Blue-Hat-Games/bluehat_server" target="_blank">Bluehat Games</a>
 - <a href="https://github.com/seonghun-dev/AudioPreprocessing" target="_blank">Audio Preprocessing</a>
 - <a href="http://yeongwol.dromii.com" target="_blank">Web Panorama</a>
-- Tech B
+- <a href="https://github.com/seonghun-dev/TechB" target="_blank">Tech B</a>
 
 ### 📫 More
 <a href="https://www.linkedin.com/in/seonghun/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=linkedin&logoColor=white"/></a>
