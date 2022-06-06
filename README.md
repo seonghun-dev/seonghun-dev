@@ -7,10 +7,10 @@
 
 | Career 	| Date 	| department | Contents |
 |:-:	|:-:	|-	|-	|
-| 🎓한국공학대학교 | 2017.03~2019.02 	| 기계설계공학과</br>(Mechanical Engineering) 	|  	|
-| 🎓건국대학교	| 2021.03~ 	| 스마트ICT융합공학과</br>(Smart ICT Convergence)	|  산업공학과 부전공</br>(Minor : Industrial engineering)	|
-| 💼4S Mapper | 2021.07.01~2021.08.27 | 소프트웨어 개발자</br>(Software Developer) | http://yeongwol.dromii.com	|
-| 💼HyperHire | 2021.08.30~ | 데이터 사이언스 엔지니어</br>(DataScience Engineer) | Web crawling, MachineLearning, Recommend System	|
+| 한국공학대학교 | 2017.03~2019.02 	| 기계설계공학과</br>(Mechanical Engineering) 	|  	|
+| 건국대학교	| 2021.03~ 	| 스마트ICT융합공학과</br>(Smart ICT Convergence)	|  산업공학과 부전공</br>(Minor : Industrial engineering)	|
+| 4S Mapper | 2021.07.01~2021.08.27 | 소프트웨어 개발자</br>(Software Developer) | http://yeongwol.dromii.com	|
+| HyperHire | 2021.08.30~ | 데이터 사이언스 엔지니어</br>(DataScience Engineer) | Web crawling, MachineLearning, Recommend System	|
 
   
 
