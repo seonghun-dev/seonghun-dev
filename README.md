@@ -26,6 +26,10 @@
 - <a href="http://yeongwol.dromii.com" target="_blank">Web Panorama</a>
 - <a href="https://github.com/seonghun-dev/TechB" target="_blank">Tech B</a>
 
+### 😀 OpenSource
+- <a href="https://github.com/gluesql/gluesql" target="_blank">GlueSQL</a>
+
+
 ### 📫 More
 <a href="https://www.linkedin.com/in/seonghun/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/16596710/seonghun" target="_blank"><img src="https://img.shields.io/badge/stackoverflow-EF8236?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
