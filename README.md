@@ -77,3 +77,6 @@
 
 ### 📄 Blog Contents
 [![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=dev-seonghun)](https://dev-seonghun.medium.com/)
+
+###
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghun_dev)](https://solved.ac/seonghun_dev)
